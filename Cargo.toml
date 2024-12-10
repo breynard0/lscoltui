@@ -5,6 +5,7 @@ authors = ["breynard <dev@breynard.net>"]
 description = "A TUI tool for changing the colours of ls"
 edition = "2021"
 license = "MIT"
+repository = "https://github.com/breynard0/lscoltui"
 
 [dependencies]
 clap = { version = "4.5.23", features = ["derive"] }
