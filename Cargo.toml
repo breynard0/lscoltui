@@ -1,0 +1,14 @@
+[package]
+name = "lscoltui"
+version = "1.0.0"
+authors = ["breynard"]
+description = "A TUI tool for changing the colours of ls"
+edition = "2021"
+
+[dependencies]
+clap = { version = "4.5.23", features = ["derive"] }
+crossterm = "0.28.1"
+dirs = "5.0.1"
+ratatui = "0.29.0"
+serde = { version = "1.0.215", features = ["derive"] }
+toml = "0.8.19"
