@@ -4,6 +4,7 @@ version = "1.0.0"
 authors = ["breynard <dev@breynard.net>"]
 description = "A TUI tool for changing the colours of ls"
 edition = "2021"
+license = "MIT"
 
 [dependencies]
 clap = { version = "4.5.23", features = ["derive"] }
