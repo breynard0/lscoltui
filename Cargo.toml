@@ -1,6 +1,6 @@
 [package]
 name = "lscoltui"
-version = "1.0.0"
+version = "1.0.1"
 authors = ["breynard <dev@breynard.net>"]
 description = "A TUI tool for changing the colours of ls"
 edition = "2021"
