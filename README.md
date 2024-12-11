@@ -2,7 +2,7 @@
 
 A TUI tool for changing the colours of ls
 
-![Screenshot](screenshot.png)
+![Example screenshot of lscoltui](screenshot.png)
 
 # Installation
 
