@@ -3,7 +3,7 @@
 
 %global crate lscoltui
 
-Name:           rust-lscoltui
+Name:           lscoltui
 Version:        1.0.2
 Release:        %autorelease
 Summary:        TUI tool for changing the colours of ls
