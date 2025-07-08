@@ -54,7 +54,5 @@ License:        # FIXME
 %endif
 
 %changelog
-* Tue Jul 08 2025 breynard <dev@breynard.net> 1.0.1-1
-- new package built with tito
 
 %autochangelog
